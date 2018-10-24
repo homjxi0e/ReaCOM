@@ -4,7 +4,7 @@
 
 <table>
  <tr>
-  <td><a href="Samples/360VideoPlayback">360-degree video playback</a></td>
+  <td><a href="www.google.com">360-degree video playback</a></td>
   <td><a href="Samples/AdaptiveStreaming">Adaptive streaming</a></td>
   <td><a href="Samples/CameraAdvancedCapture">Advanced capture</a></td>
  </tr>
