@@ -3,7 +3,7 @@
 
 <table>
  <tr>
-  <td><a href="Classes/Runonce.exe">Runonce.exe/COM Hijacking</a></td>
+  <td><a href="Classes/Runonce.md">Runonce.exe/COM Hijacking</a></td>
   <td><a href="Samples/AdaptiveStreaming">1</a></td>
   <td><a href="Samples/CameraAdvancedCapture">2</a></td>
  </tr>
