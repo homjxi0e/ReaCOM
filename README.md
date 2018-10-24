@@ -4,62 +4,62 @@
 
 <table>
  <tr>
-  <td><a href="Runonce.exe">360-degree video playback</a></td>
-  <td><a href="Samples/AdaptiveStreaming">Adaptive streaming</a></td>
-  <td><a href="Samples/CameraAdvancedCapture">Advanced capture</a></td>
+  <td><a href="Runonce.exe/runonce.md">Runonce.exe/COM Hijacking</a></td>
+  <td><a href="Samples/AdaptiveStreaming">1</a></td>
+  <td><a href="Samples/CameraAdvancedCapture">2</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/AdvancedCasting">Advanced casting</a></td>
-  <td><a href="Samples/AudioCategory">Audio categories</a></td>
-  <td><a href="Samples/AudioCreation">Audio graphs</a></td>
+  <td><a href="Samples/AdvancedCasting">3</a></td>
+  <td><a href="Samples/AudioCategory">4</a></td>
+  <td><a href="Samples/AudioCreation">5</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/BackgroundMediaPlayback">Background media playback</a></td>
-  <td><a href="Samples/CameraStarterKit">Basic camera app</a></td>
-  <td><a href="Samples/BasicFaceDetection">Basic face detection</a></td>
+  <td><a href="Samples/BackgroundMediaPlayback">6</a></td>
+  <td><a href="Samples/CameraStarterKit">7</a></td>
+  <td><a href="Samples/BasicFaceDetection">8</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/BasicFaceTracking">Basic face tracking</a></td>
-  <td><a href="Samples/BasicMediaCasting">Basic media casting</a></td>
-  <td><a href="Samples/CameraFaceDetection">Camera face detection</a></td>
+  <td><a href="Samples/BasicFaceTracking">9</a></td>
+  <td><a href="Samples/BasicMediaCasting">10</a></td>
+  <td><a href="Samples/CameraFaceDetection">11</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CameraFrames">Camera frames</a></td>
-  <td><a href="Samples/CameraGetPreviewFrame">Camera preview frame</a></td>
-  <td><a href="Samples/CameraProfile">Camera profiles</a></td>
+  <td><a href="Samples/CameraFrames">12</a></td>
+  <td><a href="Samples/CameraGetPreviewFrame">13</a></td>
+  <td><a href="Samples/CameraProfile">14</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CameraResolution">Camera resolution</a></td>
-  <td><a href="Samples/CameraStreamCoordinateMapper">Camera stream coordinate mapper</a></td>
-  <td><a href="Samples/CameraStreamCorrelation">Camera stream correlation</a></td>
+  <td><a href="Samples/CameraResolution">15</a></td>
+  <td><a href="Samples/CameraStreamCoordinateMapper">16</a></td>
+  <td><a href="Samples/CameraStreamCorrelation">17</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/LiveDash">DASH streaming</a></td>
-  <td><a href="Samples/D2DPhotoAdjustment">Direct2D photo adjustment</a></td>
-  <td><a href="Samples/MediaEditing">Media editing</a></td>
+  <td><a href="Samples/LiveDash">19</a></td>
+  <td><a href="Samples/D2DPhotoAdjustment">20</a></td>
+  <td><a href="Samples/MediaEditing">13</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/MediaImport">Media import</a></td>
-  <td><a href="Samples/XamlCustomMediaTransportControls">Media transport controls</a></td>
-  <td><a href="Samples/MIDI">MIDI</a></td>
+  <td><a href="Samples/MediaImport">1213131</a></td>
+  <td><a href="Samples/XamlCustomMediaTransportControls">1122222</a></td>
+  <td><a href="Samples/MIDI">111111111111111112</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/Playlists">Playlists</a></td>
-  <td><a href="Samples/PlayReady">PlayReady</a></td>
-  <td><a href="Samples/CameraOpenCV">Processing frames with OpenCV</a></td>
+  <td><a href="Samples/Playlists">121111</a></td>
+  <td><a href="Samples/PlayReady">2222222222222222</a></td>
+  <td><a href="Samples/CameraOpenCV">22222222222</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/SimpleImaging">Simple imaging</a></td>
-  <td><a href="Samples/SpatialSound">Spatial audio</a></td>
-  <td><a href="Samples/SystemMediaTransportControls">System media transport controls</a></td>
+  <td><a href="Samples/SimpleImaging>22222222222</a></td>
+  <td><a href="Samples/SpatialSound">222222</a></td>
+  <td><a href="Samples/SystemMediaTransportControls">222222222222222222</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/MediaTranscoding">Transcoding media</a></td>
-  <td><a href="Samples/VideoPlayback">Video playback</a></td>
-  <td><a href="Samples/VideoPlaybackSynchronization">Video playback synchronization</a></td>
+  <td><a href="Samples/MediaTranscoding">11111111111111111</a></td>
+  <td><a href="Samples/VideoPlayback">2112121</a></td>
+  <td><a href="Samples/VideoPlaybackSynchronization">111111111112</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CameraVideoStabilization">Video stabilization</a></td>
-  <td><a href="Samples/WindowsAudioSession">Windows audio session (WASAPI)</a></td>
+  <td><a href="Samples/CameraVideoStabilization">222222222222222</a></td>
+  <td><a href="Samples/WindowsAudioSession">111111111111111111111111</a></td>
  </tr>
 </table>
