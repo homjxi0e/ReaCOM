@@ -1,5 +1,4 @@
-# ReaCOM/Classes of the researchers for red teams
-
+# ReaCOM/Classes of the researches
 
 
 <table>
