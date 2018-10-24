@@ -1,4 +1,4 @@
-# PowerCOM-Project
+# ReaCOM/Classes of the researchers for red teams
 
 
 
