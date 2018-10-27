@@ -1,10 +1,11 @@
 ### Openwith  Microsoft/Tools 
 Openwith.exe is a tool for operating the program according to content policies let's go for example
-If you want open anything you can put it at Openwith.exe let's go to initiative the test
-
-PS C:\> Get-ACL -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce" | Format-List
+If you want open anything you can put it at Openwith.exe let's go to initiative the experience
 
 ```
+PS C:\> Get-ACL -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce" | Format-List
+
+
 Path   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
 Owner  : NT AUTHORITY\SYSTEM
 Group  : NT AUTHORITY\SYSTEM
