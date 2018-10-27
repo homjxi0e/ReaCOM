@@ -22,3 +22,5 @@ Sddl   : null
 
 PS C:\>
 ```
+
+## At this point don't get away that you can import this registry file
