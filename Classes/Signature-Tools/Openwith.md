@@ -4,7 +4,7 @@ If you want open anything you can put it at Openwith.exe let's go to initiative 
 
 PS C:\> Get-ACL -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce" | Format-List
 
-
+```
 Path   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
 Owner  : NT AUTHORITY\SYSTEM
 Group  : NT AUTHORITY\SYSTEM
@@ -21,3 +21,4 @@ Sddl   : O:SYG:SYD:AI(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;K
 
 
 PS C:\>
+```
