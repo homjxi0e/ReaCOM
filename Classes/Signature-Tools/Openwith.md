@@ -14,7 +14,7 @@ Access : BUILTIN\Users Allow  ReadKey
          NT AUTHORITY\SYSTEM Allow  FullControl
          CREATOR OWNER Allow  FullControl
          APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES Allow  ReadKey
-         S-1-15-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681 Allow  ReadKey
+         null Allow  ReadKey
 Audit  :
 Sddl   : null
 
