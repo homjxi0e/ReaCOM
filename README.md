@@ -4,8 +4,8 @@
 <table>
  <tr>
   <td><a href="Classes/Runonce.md">Runonce.exe/COM Hijacking</a></td>
-  <td><a href="Samples/AdaptiveStreaming">1</a></td>
-  <td><a href="Samples/CameraAdvancedCapture">2</a></td>
+  <td><a href="Classes/Signature-Tools/explorer.md">URLProtocol/COMHijacking</a></td>
+  <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe/COMHijacking</a></td>
  </tr>
  <tr>
   <td><a href="Samples/AdvancedCasting">3</a></td>
