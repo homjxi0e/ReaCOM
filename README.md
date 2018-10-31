@@ -8,7 +8,7 @@
   <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe/COMHijacking</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/AdvancedCasting">3</a></td>
+  <td><a href="Classes/xwizard.md">xwizard/CLSID</a></td>
   <td><a href="Samples/AudioCategory">4</a></td>
   <td><a href="Samples/AudioCreation">5</a></td>
  </tr>
