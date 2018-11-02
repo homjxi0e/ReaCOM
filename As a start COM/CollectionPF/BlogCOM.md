@@ -6,6 +6,5 @@ Hijacking COM server binaries introduces a few interesting use cases (e.g. MMC).
 Defensive considerations include implementing robust Application Whitelisting policies, monitoring for unsuspecting command line usage (e.g. “-Embedding”) with a deviation from the proper parent process (e.g. svchost.exe), and the creation of interesting Registry keys (e.g. “TreatAs”, “ScriptletUrl”, etc.).
 
 
-Not long ago, I wrote a blog post about * [Abusing the COM Registry Structure: CLSID, LocalServer32, & InprocServer32](https://bohops.com/2018/06/28/abusing-com-registry-structure-clsid-localserver32-inprocserver32/)   
- .  In that previous post, a few interesting techniques were discussed such as abandoned registry key discovery, COM hijacking, lateral movement, defensive evasion, application whitelisting bypass, and situational persistence.  In this follow-up post, we will take it a step further and focus on a few other hijack methods and evasive loading techniques.  Topics include 
+Not long ago, I wrote a blog post about [Abusing the COM Registry Structure: CLSID, LocalServer32, & InprocServer32](https://bohops.com/2018/06/28/abusing-com-registry-structure-clsid-localserver32-inprocserver32/) In that previous post, a few interesting techniques were discussed such as abandoned registry key discovery, COM hijacking, lateral movement, defensive evasion, application whitelisting bypass, and situational persistence.  In this follow-up post, we will take it a step further and focus on a few other hijack methods and evasive loading techniques.  Topics include 
  
