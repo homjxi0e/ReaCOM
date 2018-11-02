@@ -9,7 +9,7 @@
  </tr>
  <tr>
   <td><a href="Classes/xwizard.md">xwizard/CLSID</a></td>
-  <td><a href="Classes/xwizards.dll.md">XDLL/CLSID-COM</a></td>
+  <td><a href="Classes/xwizards.dll.md">DLL/CLSID</a></td>
   <td><a href="Samples/AudioCreation">5</a></td>
  </tr>
  <tr>
