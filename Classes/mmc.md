@@ -1,7 +1,7 @@
 ## Author bohops
-Synopsis:
-Use MMC file to invoke CLSID to drag the files Scriptlet or payload anything you want to execute it
-
+Synopsis: 
+Microsoft Management Console is including the file to invoke CLSID to drag the files Scriptlet or payload anything you want to execute it
+ 
 MMC.exe: 
 MMC – CLSID Web Address Link
 Though not nearly as exciting as the remote command execution/lateral movement technique, MMC can be used to invoke CLSID payloads for evasive loading and Run Key persistence.  Let’s setup our MMC console file to demonstrate this example
