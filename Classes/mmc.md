@@ -1,6 +1,6 @@
 ## Author bohops
 Synopsis: 
-Microsoft Management Console is including the file to invoke CLSID to drag the files Scriptlet or payload anything you want to execute it
+Microsoft Management Console is including the file to invoke CLSID to drag Scriptlet or payload anything you want to execute it
  
 MMC.exe: 
 MMC – CLSID Web Address Link
