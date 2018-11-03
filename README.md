@@ -10,7 +10,7 @@
  <tr>
   <td><a href="Classes/xwizard.md">xwizard/CLSID</a></td>
   <td><a href="Classes/xwizards.dll.md">DLL/CLSID</a></td>
-  <td><a href="Samples/AudioCreation">5</a></td>
+  <td><a href="Classes/mmc.md">MMC/CLSID</a></td>
  </tr>
  <tr>
   <td><a href="Samples/BackgroundMediaPlayback">6</a></td>
