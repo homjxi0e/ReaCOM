@@ -1,4 +1,4 @@
-### Author [https://twitter.com/bohops](@bohops)
+### Author [bohops](https://twitter.com/bohops)
 
 
 
