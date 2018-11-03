@@ -1,3 +1,8 @@
+### Author @bohops
+
+
+
+
 ### Abusing the COM Registry Structure (Part 2): Hijacking & Loading Techniques
 TL;DR
 There are several ways that attackers can leverage COM hijacking to influence evasive loading and hidden persistence.  A few examples include CLSID (sub)key abandonment referencing, key overriding, and key linking.
