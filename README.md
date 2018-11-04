@@ -6,7 +6,7 @@
   <td><a href="Classes/Runonce.md">Runonce.exe/COM Hijacking</a></td>
   <td><a href="Classes/URLProtocol.md">URLProtocol/COMHijacking</a></td>
   <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe/COMHijacking</a></td>
-   <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe/COMHijacking</a></td>
+   <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe</a></td>
  </tr>
  <tr>
   <td><a href="Classes/xwizard.md">xwizard/CLSID</a></td>
