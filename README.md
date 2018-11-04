@@ -4,7 +4,7 @@
 <table>
  <tr>
   <td><a href="Classes/Runonce.md">Runonce.exe/COM Hijacking</a></td>
-  <td><a href="Classes/Signature-Tools/explorer.md">URLProtocol/COMHijacking</a></td>
+  <td><a href="Classes/URLProtocol.md">URLProtocol/COMHijacking</a></td>
   <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe/COMHijacking</a></td>
  </tr>
  <tr>
@@ -13,7 +13,7 @@
   <td><a href="Classes/mmc.md">MMC/CLSID</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/BackgroundMediaPlayback">6</a></td>
+  <td><a href="Classes/Signature-Tools/explorer.md">Explorer.exe/COMHijacking</a></td>
   <td><a href="Samples/CameraStarterKit">7</a></td>
   <td><a href="Samples/BasicFaceDetection">8</a></td>
  </tr>
