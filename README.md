@@ -1,6 +1,5 @@
 # ReaCOM/Classes of the researches
 
-
 <table>
  <tr>
   <td><a href="Classes/Runonce.md">Runonce.exe/COM Hijacking</a></td>
