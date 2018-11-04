@@ -14,7 +14,7 @@
  </tr>
  <tr>
   <td><a href="Classes/Signature-Tools/explorer.md">Explorer.exe/COMHijacking</a></td>
-  <td><a href="Samples/CameraStarterKit">7</a></td>
+  <td><a href="Classes/rundll32.md">Rundll32/CLSID</a></td>
   <td><a href="Samples/BasicFaceDetection">8</a></td>
  </tr>
  <tr>
