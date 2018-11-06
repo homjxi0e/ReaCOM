@@ -14,8 +14,8 @@
  </tr>
  <tr>
   <td><a href="Classes/Signature-Tools/explorer.md">Explorer.exe/COMHijacking</a></td>
-  <td><a href="Classes/rundll32.md">Rundll32/CLSID</a></td>
-  <td><a href="Samples/BasicFaceDetection">8</a></td>
+  <td><a href="Classes/COMScripetlet.reg">Scripetlet/File</a></td>
+  <td><a href="Classes/Powershell.md">Powershell/CLSID</a></td>
  </tr>
  <tr>
   <td><a href="Samples/BasicFaceTracking">9</a></td>
