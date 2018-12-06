@@ -1,4 +1,4 @@
-# ReaCOM/Classes of the researches
+# ReaCOM/Framework  
 
 <table>
  <tr>
