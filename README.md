@@ -64,4 +64,4 @@
 </table>
    
   ### ReaCOM/Framework 
-ReaCOM is project has multiple conributes to understand Component object model COM will provide you to using more than one tool to COM hijacking regardless other features 
+ReaCOM is project has a multiple of contributes to understand Component object model COM will provide you to using more than one tool to COM hijacking regardless other features
