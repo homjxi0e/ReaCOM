@@ -1,5 +1,5 @@
-XWizards.dll is one of the DLL libraries to an invocation CLSID and through CLSID then structures to Scriptlet,
-This library DLL It belongs to Xwizard.exe tool by Microsoft Server,
+XWizards.dll is one of DLL libraries can be used to invoke CLSID for executing code from Scriptlet through registry ,
+This library DLL belongs to Xwizard.exe from tool Microsoft Server,
 
 ```
 My Tweet's here at link this
