@@ -18,29 +18,29 @@
   <td><a href="Classes/Powershell.md">Powershell/CLSID</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/BasicFaceTracking">9</a></td>
-  <td><a href="Samples/BasicMediaCasting">10</a></td>
-  <td><a href="Samples/CameraFaceDetection">11</a></td>
+  <td><a href="Samples/BasicFaceTracking">Being implmented</a></td>
+  <td><a href="Samples/BasicMediaCasting">Being implmented</a></td>
+  <td><a href="Samples/CameraFaceDetection">Being implmented</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CameraFrames">12</a></td>
-  <td><a href="Samples/CameraGetPreviewFrame">13</a></td>
-  <td><a href="Samples/CameraProfile">14</a></td>
+  <td><a href="Samples/CameraFrames">Being implmented</a></td>
+  <td><a href="Samples/CameraGetPreviewFrame">Being implmented</a></td>
+  <td><a href="Samples/CameraProfile">Being implmented</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CameraResolution">15</a></td>
-  <td><a href="Samples/CameraStreamCoordinateMapper">16</a></td>
-  <td><a href="Samples/CameraStreamCorrelation">17</a></td>
+  <td><a href="Samples/CameraResolution">Being implmented</a></td>
+  <td><a href="Samples/CameraStreamCoordinateMapper">Being implmented</a></td>
+  <td><a href="Samples/CameraStreamCorrelation">Being implmented</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/LiveDash">19</a></td>
-  <td><a href="Samples/D2DPhotoAdjustment">20</a></td>
+  <td><a href="Samples/LiveDash">Being implmented</a></td>
+  <td><a href="Samples/D2DPhotoAdjustment">Being implmented</a></td>
   <td><a href="Samples/MediaEditing">13</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/MediaImport">1213131</a></td>
-  <td><a href="Samples/XamlCustomMediaTransportControls">1122222</a></td>
-  <td><a href="Samples/MIDI">111111111111111112</a></td>
+  <td><a href="Samples/MediaImport">Being implmented</a></td>
+  <td><a href="Samples/XamlCustomMediaTransportControls">Being implmented</a></td>
+  <td><a href="Samples/MIDI">Being implmented</a></td>
  </tr>
  <tr>
   <td><a href="Samples/Playlists">121111</a></td>
