@@ -69,4 +69,7 @@ ReaCOM is project has a multiple of contributes to understand component object m
 ReaCOM targets COM techniques from different types of COM execution and shows research from different authors, COM object is one of the most popular techniques for the red team in twitter and everywhere, so that we are all here to show some tools can do hijacking COM objects and execute its code by abusing some tools in system operating.
  
 
-### Authors
+### Ackknowledgement
+* [Bohops](https://twitter.com/bohops)
+* [Bohops](https://twitter.com/enigma0x3)
+
