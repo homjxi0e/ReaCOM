@@ -9,6 +9,8 @@ C:\>reg import "file.reg"
 The operation completed successfully.
 
 C:\>start C:\Windows\System32\winrm.vbs
+Or 
+C:\> start C:\Windows\System32\winrm.cmd
 
 C:\>
 ```
