@@ -19,7 +19,7 @@
  </tr>
  <tr>
   <td><a href="Classes/Verclsid.md">Verclsid.exe</a></td>
-  <td><a href="Samples/BasicMediaCasting">Being implmented</a></td>
+  <td><a href="Classes/Winrm.md">Winrm.vbs</a></td>
   <td><a href="Samples/CameraFaceDetection">Being implmented</a></td>
  </tr>
  <tr>
