@@ -17,10 +17,10 @@
   <td><a href="Classes/COMScripetlet.reg">Scripetlet/File</a></td>
   <td><a href="Classes/Powershell.md">Powershell/CLSID</a></td>
  </tr>
- <tr>
+ <tr>  
   <td><a href="Classes/Verclsid.md">Verclsid.exe</a></td>
   <td><a href="Classes/Winrm.md">Winrm.vbs</a></td>
-  <td><a href="Samples/CameraFaceDetection">Being implmented</a></td>
+  <td><a href="Classes/Winrm.md">Winrm.cmd</a></td>
  </tr>
  <tr>
   <td><a href="Samples/CameraFrames">Being implmented</a></td>
