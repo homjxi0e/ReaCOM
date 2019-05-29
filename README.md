@@ -71,5 +71,5 @@ ReaCOM targets COM techniques from different types of COM execution and shows re
 
 ### Ackknowledgement
 * [Bohops](https://twitter.com/bohops)
-* [Bohops](https://twitter.com/enigma0x3)
+* [Matt Nelson ](https://twitter.com/enigma0x3)
 
