@@ -64,7 +64,7 @@
 </table>
    
   ### ReaCOM/Framework 
-ReaCOM is project has a multiple of contributes to understand Component object model COM will provide you to using more than one tool to COM hijacking regardless other features
+ReaCOM is project has a multiple of contributes to understand component object model COM can provide you a lot use more than one tool to hijacking COM object regardless other features are based on some different methods.
 
-![3123123132132131222](https://user-images.githubusercontent.com/25440152/54434036-f6257700-4735-11e9-8cb7-b03bd4e959cb.PNG)
-
+ReaCOM targets COM techniques from different types of COM execution and authories. 
+ 
