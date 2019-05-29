@@ -35,7 +35,7 @@
  <tr>
   <td><a href="Samples/LiveDash">Being implmented</a></td>
   <td><a href="Samples/D2DPhotoAdjustment">Being implmented</a></td>
-  <td><a href="Samples/MediaEditing">13</a></td>
+  <td><a href="Samples/MediaEditing">Being implmented</a></td>
  </tr>
  <tr>
   <td><a href="Samples/MediaImport">Being implmented</a></td>
