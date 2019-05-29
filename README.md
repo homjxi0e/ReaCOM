@@ -66,5 +66,5 @@
   ### ReaCOM/Framework 
 ReaCOM is project has a multiple of contributes to understand component object model COM can provide you a lot use more than one tool to hijacking COM object regardless other features are based on some different methods.
 
-ReaCOM targets COM techniques from different types of COM execution and authories. 
+ReaCOM targets COM techniques from different types of COM execution and shows different authories, COM object is one of the most popular techniques for the red team in twitter and everywhere, so that we are all here to show some tools can do hijacking COM objects and execute its code by abusing some tools in system operating.
  
