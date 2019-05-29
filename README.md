@@ -57,10 +57,7 @@
   <td><a href="Samples/VideoPlayback">2112121</a></td>
   <td><a href="Samples/VideoPlaybackSynchronization">111111111112</a></td>
  </tr>
- <tr>
-  <td><a href="Samples/CameraVideoStabilization">222222222222222</a></td>
-  <td><a href="Samples/WindowsAudioSession">111111111111111111111111</a></td>
- </tr>
+
 </table>
    
   ### ReaCOM/Framework 
