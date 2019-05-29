@@ -19,3 +19,7 @@ Verclsid.exe is a tool as wee, It was found in 'System32', and It can be used to
 
 
 * [Reg file](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSScripts/Payload/Slmgr.reg)
+
+
+### Author 
+ * [(@NickTyrer)](https://twitter.com/NickTyrer)
