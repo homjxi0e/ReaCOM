@@ -1,5 +1,5 @@
 
-Synopsis: This method grants you the right to access and the execute via Activator.System .NET to connection with Scriptlet through a CLSID
+Synopsis: This method grants you the right to access and execute COM object codes via Activator.System .NET to connection with Scriptlet through a CLSID
 
 ![131231](https://user-images.githubusercontent.com/25440152/48066324-f0db7d00-e1d5-11e8-8bb6-efa03b4c4a7c.PNG)
 
