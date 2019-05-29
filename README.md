@@ -52,11 +52,6 @@
   <td><a href="Samples/SpatialSound">222222</a></td>
   <td><a href="Samples/SystemMediaTransportControls">222222222222222222</a></td>
  </tr>
- <tr>
-  <td><a href="Samples/MediaTranscoding">11111111111111111</a></td>
-  <td><a href="Samples/VideoPlayback">2112121</a></td>
-  <td><a href="Samples/VideoPlaybackSynchronization">111111111112</a></td>
- </tr>
 
 </table>
    
