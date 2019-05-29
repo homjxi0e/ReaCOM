@@ -1,8 +1,8 @@
 ### Openwith  Microsoft/Tools 
-Openwith.exe is a tool for operating the program according to content policies let's go for example
-If you want open anything you can put it at Openwith.exe let's go to initiative the experience
+Openwith.exe is a tool for opening a program but depending on the type of file that you want to open, let's go for example
+If you want open anything, you can put it at Openwith.exe, let's go to have a look at this.
 
-The title of a concept is Scriptlet execution using an Openwith.exe via URL Protocol in System Operating beside the fake signal using ApplicationCompany"="@{windows.immersivecontrolpanel ==> Certificate
+The purpose of this concept is doing scriptlet execution method using an Openwith.exe and URL Protocol in operating system, but all of that can happen by using a fake siginature, It's called, ApplicationCompany"="@{windows.immersivecontrolpanel.
 ```
 PS C:\> reg import C:\Users\harr0ey\Desktop\sss.reg
 The operation completed successfully.
