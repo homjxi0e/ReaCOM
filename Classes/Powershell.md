@@ -1,4 +1,3 @@
-### Author Matt harr0ey 
 
 Synopsis: This method grants you the right to access and the execute via Activator.System .NET to connection with Scriptlet through a CLSID
 
@@ -30,3 +29,8 @@ Windows Registry Editor Version 5.00
 $1=[Activator]::CreateInstance([type]::GetTypeFromCLSID("{00020000-0000-0000-C000-000000000046}"));
 $1.Exec();
 ```
+
+
+### Author Matt harr0ey 
+
+* [Matt harr0ey](https://twitter.com/harr0ey)
