@@ -43,14 +43,14 @@
   <td><a href="Samples/MIDI">Being implmented</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/Playlists">121111</a></td>
-  <td><a href="Samples/PlayReady">2222222222222222</a></td>
-  <td><a href="Samples/CameraOpenCV">22222222222</a></td>
+  <td><a href="Samples/Playlists">Being implmented</a></td>
+  <td><a href="Samples/PlayReady">Being implmented</a></td>
+  <td><a href="Samples/CameraOpenCV">Being implmented</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/SimpleImaging>22222222222</a></td>
-  <td><a href="Samples/SpatialSound">222222</a></td>
-  <td><a href="Samples/SystemMediaTransportControls">222222222222222222</a></td>
+  <td><a href="Samples/SimpleImaging>Being implmented</a></td>
+  <td><a href="Samples/SpatialSound">Being implmented</a></td>
+  <td><a href="Samples/SystemMediaTransportControls">Being implmented</a></td>
  </tr>
 
 </table>
