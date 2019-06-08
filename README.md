@@ -1,4 +1,4 @@
-# ReaCOM/Framework  
+# ReaCOM project
 
 <table>
  <tr>
