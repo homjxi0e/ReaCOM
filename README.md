@@ -96,5 +96,5 @@ curl.exe --remote-time https://raw.githubusercontent.com/homjxi0e/ReaCOM/master/
 * Helpful techniques can help you to know how to use project tools.
 * [URL Protocol](https://msdn.microsoft.com/en-us/windows/desktop/aa767914)
 
-* Part 1 [COM component object model](https://docs.microsoft.com/en-us/windows/desktop/com/component-object-model--com--portal)
-* Part 2 [COM component object model](https://docs.microsoft.com/en-us/windows/desktop/com/the-component-object-model)
+* Part 1 [COM component object mode :)l](https://docs.microsoft.com/en-us/windows/desktop/com/component-object-model--com--portal)
+* Part 2 [COM component object model:) ](https://docs.microsoft.com/en-us/windows/desktop/com/the-component-object-model)
