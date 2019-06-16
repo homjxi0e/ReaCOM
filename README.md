@@ -92,4 +92,8 @@ The command used in the gif above:
 curl.exe --remote-time https://raw.githubusercontent.com/homjxi0e/ReaCOM/master/Classes/COMScripetlet.reg --write-out rrr.reg --output tttt.reg; echo '' '' ; reg import .\tttt.reg
 
 ```
+### (References)
+* Helpful techniques can help you to know how to use project tools.
+* [URL Protocol](https://msdn.microsoft.com/en-us/windows/desktop/aa767914)
+
 
