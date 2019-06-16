@@ -23,7 +23,7 @@
   <td><a href="Classes/Winrm.md">Winrm.cmd</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CameraFrames">Being implmented</a></td>
+  <td><a href="Classes/prncnfg.md">Prncnfg.vbs</a></td>
   <td><a href="Samples/CameraGetPreviewFrame">Being implmented</a></td>
   <td><a href="Samples/CameraProfile">Being implmented</a></td>
  </tr>
