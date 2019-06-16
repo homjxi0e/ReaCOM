@@ -78,7 +78,7 @@ Thanks everyone for working together to find these great tools.
 To enjoy hijacking you need to do the steps below:
 * Downloading registry file
 * Importing registry file
-* taking a look and learning how Scriptlet works.
+* Taking a look and learning how Scriptlet works.
 
 ![GIF](https://user-images.githubusercontent.com/25440152/59564365-c880f000-8ffa-11e9-914d-d974baf5dfbc.gif)
 
