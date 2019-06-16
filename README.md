@@ -77,6 +77,9 @@ Thanks everyone for working together to find these great tools.
 
 * [Start using COM technique after watching this](![GIF](https://user-images.githubusercontent.com/25440152/59564365-c880f000-8ffa-11e9-914d-d974baf5dfbc.gif)
 )
+
+
+
 To enjoy hijacking you need to do the steps below:
 * Downloading registry file
 * Importing registry file
