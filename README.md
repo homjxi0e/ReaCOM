@@ -93,7 +93,7 @@ curl.exe --remote-time https://raw.githubusercontent.com/homjxi0e/ReaCOM/master/
 
 ```
 ### (Useful references)
-* Helpful techniques can help you to know how to use project tools.
+* Helpful techniques can help you to know how to use these project tools.
 * [URL Protocol](https://msdn.microsoft.com/en-us/windows/desktop/aa767914)
 
 * Part 1 [COM component object model](https://docs.microsoft.com/en-us/windows/desktop/com/component-object-model--com--portal) :)
