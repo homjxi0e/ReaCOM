@@ -56,9 +56,11 @@
 </table>
    
   ### ReaCOM/Framework 
-ReaCOM is project has a multiple of contributes to understand component object model COM can provide you a lot use more than one tool to hijacking COM object regardless other features are based on some different methods.
+ReaCOM is the project that has a multiple of contributes to understand component object model COM. It provide you more than one tool to use COM. This project is based on Scriptlet, which it means, All of the tools that you would like to use from my project are based on Scriptllet execution.
 
-ReaCOM targets COM techniques from different types of COM execution and shows research from different authors, COM object is one of the most popular techniques for the red team in twitter and everywhere, so that we are all here to show some tools can do hijacking COM objects and execute its code by abusing some tools in system operating.
+
+
+ReaCOM targets COM techniques from different types of use and shows some research from different authors, COM object is one of the most popular techniques for the red team in twitter and everywhere, so that we are all here to show some tools can do hijacking COM objects and execute its code by abusing some tools in system operating.
  
 
 ### Ackknowledgement
