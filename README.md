@@ -56,7 +56,7 @@
 </table>
    
   ### ReaCOM  
-ReaCOM is the project that has a multiple of contributes to understand component object model COM. It provide you more than one tool to use COM. This project is based on Scriptlet, which it means, All of the tools that you would like to use from my project are based on Scriptllet execution.
+ReaCOM is the project that has a multiple of contributes to understand component object model. It provide you more than one tool to use COM. This project is based on Scriptlet, which it means, All of the tools that you would like to use from my project are based on Scriptllet execution.
 
 
 
