@@ -1,6 +1,6 @@
 ## Author bohops
 
-Rundll32 is a tool was created by Microsoft Service, the purpose of Rundll32 tool is use libraries DLL in an operating system, and one of the features in a Rundll32 tool is It grants users simulationn session with functions in DLLs.
+Rundll32 is a tool was created by Microsoft Service, the purpose of Rundll32 tool is to use libraries DLL in an operating system, and one of the features in a Rundll32 tool is It grants users simulationn session with functions in DLLs.
 
 
 Synopsis:
