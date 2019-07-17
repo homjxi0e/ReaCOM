@@ -24,7 +24,7 @@
  </tr>
  <tr>
   <td><a href="Classes/prncnfg.md">Prncnfg.vbs</a></td>
-  <td><a href="Samples/CameraGetPreviewFrame">Being implmented</a></td>
+  <td><a href="Classes/prnport.md">Prnport.vbs</a></td>
   <td><a href="Samples/CameraProfile">Being implmented</a></td>
  </tr>
  <tr>
