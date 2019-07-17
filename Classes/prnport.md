@@ -7,6 +7,12 @@ While I was looking for any tools that I can use them to hijack COM objects I fo
 We all know what happens when It's easy to hijack COM object, which It means that we can execute Scriptlet by using COM hijacking techniques.
 
 
+
+
+
+
+
+
 As we see in the picture below, It shows how Scripting.Dictionary function invokes CLSID to execute load and execute Scriptlet remotely.
 
 ![12313213213](https://user-images.githubusercontent.com/25440152/61374905-682bdb00-a852-11e9-983f-eb632e7777c7.PNG)
