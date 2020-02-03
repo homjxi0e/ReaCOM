@@ -1,4 +1,4 @@
-Here, we can use Winrm.vbs to hijack COM object by making "Scripting.Dictionary" invokes COM file in registry, Scripting.Dictionary is often refers to ProgID.
+Here, we can use Winrm.vbs to hijack COM by making "Scripting.Dictionary" invokes COM file in registry, Scripting.Dictionary is often refers to ProgID.
 
 
 Instructions:
